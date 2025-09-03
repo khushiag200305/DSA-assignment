@@ -107,6 +107,6 @@ int main()
     }
     if(n==7)
     break;
-    }
+  }
     return 0;
 }
